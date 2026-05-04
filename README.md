@@ -1,4 +1,4 @@
-📄 Smart Document Assistant
+📄 Smart Document Assistant:
 A local RAG (Retrieval-Augmented Generation) system that lets you chat with your own documents using free Hugging Face models — no OpenAI API needed.
 Built with LangChain for document loading and text splitting, FAISS for vector search, and Hugging Face for embeddings and LLM inference.
 
