@@ -1,0 +1,142 @@
+[
+  {
+    "question": "What is Rania Hassan's educational background?",
+    "expected_keywords": ["Nile University", "Computer Science", "GPA"]
+  },
+  {
+    "question": "What internships has Rania Hassan completed?",
+    "expected_keywords": ["NTI", "NAID", "Mixed Reality", "AI"]
+  },
+  {
+    "question": "What is the 'Through the Eye' project about?",
+    "expected_keywords": ["Virtual Reality", "Retinal Diseases", "Simulation"]
+  },
+  {
+    "question": "What retinal diseases are simulated in the application?",
+    "expected_keywords": ["AMD", "Choroideremia", "Stargardt", "Pathologic Myopia"]
+  },
+  {
+    "question": "What platform or headset is used in the simulation?",
+    "expected_keywords": ["Meta Quest 2", "Oculus Link"]
+  },
+  {
+    "question": "What is the educational goal of the Through the Eye project?",
+    "expected_keywords": ["medical training", "public awareness"]
+  },
+  {
+    "question": "What tools were used to build the simulation?",
+    "expected_keywords": ["Unity", "OpenCV"]
+  },
+  {
+    "question": "What visual symptoms are simulated in the application?",
+    "expected_keywords": ["tunnel vision", "blurriness", "scotomas"]
+  },
+  {
+    "question": "How many retinal diseases does the system simulate?",
+    "expected_keywords": ["12", "twelve"]
+  },
+  {
+    "question": "How many participants tested the system?",
+    "expected_keywords": ["43"]
+  },
+  {
+    "question": "What was the average FPS during disease simulations?",
+    "expected_keywords": ["23", "frames per second"]
+  },
+  {
+    "question": "What technique is used to simulate blurring?",
+    "expected_keywords": ["Gaussian blur"]
+  },
+  {
+    "question": "What technique is used to simulate distortion?",
+    "expected_keywords": ["Sinusoidal warping"]
+  },
+  {
+    "question": "What technique is used to simulate tunnel vision?",
+    "expected_keywords": ["radial masking"]
+  },
+  {
+    "question": "What hardware was used alongside the VR headset?",
+    "expected_keywords": ["webcam"]
+  },
+  {
+    "question": "What are the limitations of the system?",
+    "expected_keywords": ["CPU processing"]
+  },
+  {
+    "question": "What existing tools is Through the Eye compared to?",
+    "expected_keywords": ["NEI VR", "OpenVisSim"]
+  },
+  {
+    "question": "What enhancement techniques were applied for cataract simulations?",
+    "expected_keywords": ["CLAHE", "unsharp masking"]
+  },
+  {
+    "question": "What percentage of participants reported improvement with visual enhancement?",
+    "expected_keywords": ["69%", "22"]
+  },
+  {
+    "question": "What are the future plans for the project?",
+    "expected_keywords": ["mobile VR platforms", "additional ocular conditions"]
+  },
+  {
+    "question": "What is the substitute for a rolling pin in cooking?",
+    "expected_keywords": ["smooth bottle", "glass"]
+  },
+  {
+    "question": "How many teaspoons equal one tablespoon?",
+    "expected_keywords": ["3", "teaspoons"]
+  },
+  {
+    "question": "What should you do if a grease fire starts?",
+    "expected_keywords": ["salt", "baking soda"]
+  },
+  {
+    "question": "How do you measure dry ingredients correctly?",
+    "expected_keywords": ["level off", "knife"]
+  },
+  {
+    "question": "What is the substitute for one cup of butter?",
+    "expected_keywords": ["shortening", "margarine"]
+  },
+  {
+    "question": "What is the most common cause of Central Retinal Artery Occlusion in patients aged 40 to 60?",
+    "expected_keywords": ["atherosclerotic"]
+  },
+  {
+    "question": "What is the mainstay treatment for Central Retinal Artery Occlusion?",
+    "expected_keywords": ["intraocular pressure"]
+  },
+  {
+    "question": "What is the classic appearance of Central Retinal Vein Occlusion on fundoscopy?",
+    "expected_keywords": ["blood and thunder", "stormy sunset"]
+  },
+  {
+    "question": "What is the most common type of retinal detachment?",
+    "expected_keywords": ["Rhegmatogenous"]
+  },
+  {
+    "question": "What is the treatment for Retinitis Pigmentosa?",
+    "expected_keywords": ["No treatment"]
+  },
+  {
+    "question": "What is a DBMS?",
+    "expected_keywords": ["software", "database"]
+  },
+  {
+    "question": "What are the limitations of a file system?",
+    "expected_keywords": ["redundancy", "inconsistency"]
+  },
+  {
+    "question": "What is a primary key in a relational database?",
+    "expected_keywords": ["uniquely identify", "tuples"]
+  },
+  {
+    "question": "What is a composite primary key?",
+    "expected_keywords": ["more than one attribute"]
+  },
+  {
+    "question": "What is a foreign key used for?",
+    "expected_keywords": ["relationship", "two relations"]
+  }
+]
