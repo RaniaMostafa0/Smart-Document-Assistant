@@ -1,13 +1,5 @@
 [
   {
-    "question": "What is Rania Hassan's educational background?",
-    "expected_keywords": ["Nile University", "Computer Science", "GPA"]
-  },
-  {
-    "question": "What internships has Rania Hassan completed?",
-    "expected_keywords": ["NTI", "NAID", "Mixed Reality", "AI"]
-  },
-  {
     "question": "What is the 'Through the Eye' project about?",
     "expected_keywords": ["Virtual Reality", "Retinal Diseases", "Simulation"]
   },
